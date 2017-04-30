@@ -1,0 +1,2256 @@
+{
+  "name": "",
+  "children": [
+
+	{
+	    "name" : "Topic_0",
+	    "children" : [ 
+	        {
+	            "name" : "daughter",
+	            "size" : 66.5529171856721
+	        }, 
+	        {
+	            "name" : "cute",
+	            "size" : 61.8855798288847
+	        }, 
+	        {
+	            "name" : "asada",
+	            "size" : 40.2569131597363
+	        }, 
+	        {
+	            "name" : "crowd",
+	            "size" : 30.0073346301957
+	        }, 
+	        {
+	            "name" : "hit",
+	            "size" : 27.2708923823394
+	        }, 
+	        {
+	            "name" : "meet",
+	            "size" : 23.8095674954577
+	        }, 
+	        {
+	            "name" : "lounge",
+	            "size" : 21.3273312693267
+	        }, 
+	        {
+	            "name" : "mix",
+	            "size" : 20.5321232754971
+	        }, 
+	        {
+	            "name" : "step",
+	            "size" : 20.4958391041186
+	        }, 
+	        {
+	            "name" : "pink",
+	            "size" : 20.2848898522654
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_1",
+	    "children" : [ 
+	        {
+	            "name" : "club",
+	            "size" : 58.3404523760102
+	        }, 
+	        {
+	            "name" : "class",
+	            "size" : 47.8167851507732
+	        }, 
+	        {
+	            "name" : "summer",
+	            "size" : 21.342175540804
+	        }, 
+	        {
+	            "name" : "gym",
+	            "size" : 18.5457806490508
+	        }, 
+	        {
+	            "name" : "body",
+	            "size" : 17.2755395520174
+	        }, 
+	        {
+	            "name" : "area",
+	            "size" : 17.1595470355023
+	        }, 
+	        {
+	            "name" : "machine",
+	            "size" : 16.3001192020557
+	        }, 
+	        {
+	            "name" : "workout",
+	            "size" : 14.6738664233045
+	        }, 
+	        {
+	            "name" : "time",
+	            "size" : 14.539789131556
+	        }, 
+	        {
+	            "name" : "pretzel",
+	            "size" : 13.6489310231047
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_2",
+	    "children" : [ 
+	        {
+	            "name" : "store",
+	            "size" : 73.3318374653362
+	        }, 
+	        {
+	            "name" : "shop",
+	            "size" : 69.0480876321178
+	        }, 
+	        {
+	            "name" : "price",
+	            "size" : 46.5166894264997
+	        }, 
+	        {
+	            "name" : "selection",
+	            "size" : 41.5947067454658
+	        }, 
+	        {
+	            "name" : "item",
+	            "size" : 35.1449387470164
+	        }, 
+	        {
+	            "name" : "product",
+	            "size" : 27.4884265837783
+	        }, 
+	        {
+	            "name" : "place",
+	            "size" : 26.0363674416293
+	        }, 
+	        {
+	            "name" : "location",
+	            "size" : 21.8181443085711
+	        }, 
+	        {
+	            "name" : "staff",
+	            "size" : 18.9095788942604
+	        }, 
+	        {
+	            "name" : "thing",
+	            "size" : 17.5959494363925
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_3",
+	    "children" : [ 
+	        {
+	            "name" : "pizza",
+	            "size" : 326.253411919893
+	        }, 
+	        {
+	            "name" : "topping",
+	            "size" : 68.983595680592
+	        }, 
+	        {
+	            "name" : "crust",
+	            "size" : 57.0294268031678
+	        }, 
+	        {
+	            "name" : "place",
+	            "size" : 40.8080439964569
+	        }, 
+	        {
+	            "name" : "slice",
+	            "size" : 40.3325865349636
+	        }, 
+	        {
+	            "name" : "delivery",
+	            "size" : 32.0607110774031
+	        }, 
+	        {
+	            "name" : "vanilla",
+	            "size" : 20.1906809944587
+	        }, 
+	        {
+	            "name" : "order",
+	            "size" : 19.899576808859
+	        }, 
+	        {
+	            "name" : "john",
+	            "size" : 18.8345189183632
+	        }, 
+	        {
+	            "name" : "ingredient",
+	            "size" : 16.7599282052003
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_4",
+	    "children" : [ 
+	        {
+	            "name" : "phoenix",
+	            "size" : 67.15138009156
+	        }, 
+	        {
+	            "name" : "city",
+	            "size" : 65.9059816668849
+	        }, 
+	        {
+	            "name" : "event",
+	            "size" : 62.1598372410394
+	        }, 
+	        {
+	            "name" : "valley",
+	            "size" : 56.6124075526525
+	        }, 
+	        {
+	            "name" : "chain",
+	            "size" : 46.9427823878505
+	        }, 
+	        {
+	            "name" : "heart",
+	            "size" : 40.698864536775
+	        }, 
+	        {
+	            "name" : "scottsdale",
+	            "size" : 39.4093873292974
+	        }, 
+	        {
+	            "name" : "hip",
+	            "size" : 29.8870193498664
+	        }, 
+	        {
+	            "name" : "quesadilla",
+	            "size" : 19.6465423709226
+	        }, 
+	        {
+	            "name" : "fair",
+	            "size" : 18.76340017507
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_5",
+	    "children" : [ 
+	        {
+	            "name" : "son",
+	            "size" : 67.467863154163
+	        }, 
+	        {
+	            "name" : "trust",
+	            "size" : 33.3085612434639
+	        }, 
+	        {
+	            "name" : "dressing",
+	            "size" : 30.0403393856941
+	        }, 
+	        {
+	            "name" : "repair",
+	            "size" : 27.6217320914839
+	        }, 
+	        {
+	            "name" : "treatment",
+	            "size" : 27.53282815897
+	        }, 
+	        {
+	            "name" : "training",
+	            "size" : 26.0028343075045
+	        }, 
+	        {
+	            "name" : "air",
+	            "size" : 23.7803880902187
+	        }, 
+	        {
+	            "name" : "schedule",
+	            "size" : 21.673137295061
+	        }, 
+	        {
+	            "name" : "ball",
+	            "size" : 21.208682409506
+	        }, 
+	        {
+	            "name" : "concern",
+	            "size" : 20.1005803917941
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_6",
+	    "children" : [ 
+	        {
+	            "name" : "chicken",
+	            "size" : 56.3351211563597
+	        }, 
+	        {
+	            "name" : "food",
+	            "size" : 34.8016099225818
+	        }, 
+	        {
+	            "name" : "sauce",
+	            "size" : 34.494782413145
+	        }, 
+	        {
+	            "name" : "salad",
+	            "size" : 31.0956794046316
+	        }, 
+	        {
+	            "name" : "rice",
+	            "size" : 30.1883366289625
+	        }, 
+	        {
+	            "name" : "soup",
+	            "size" : 25.454569253339
+	        }, 
+	        {
+	            "name" : "dish",
+	            "size" : 25.2894776507598
+	        }, 
+	        {
+	            "name" : "menu",
+	            "size" : 20.8416110437973
+	        }, 
+	        {
+	            "name" : "shrimp",
+	            "size" : 20.284657080425
+	        }, 
+	        {
+	            "name" : "order",
+	            "size" : 19.9272636451421
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_7",
+	    "children" : [ 
+	        {
+	            "name" : "lady",
+	            "size" : 80.1109941871615
+	        }, 
+	        {
+	            "name" : "kink",
+	            "size" : 29.3873517007461
+	        }, 
+	        {
+	            "name" : "doughnut",
+	            "size" : 26.8103716893243
+	        }, 
+	        {
+	            "name" : "latte",
+	            "size" : 25.5831692955804
+	        }, 
+	        {
+	            "name" : "twist",
+	            "size" : 22.3385979049666
+	        }, 
+	        {
+	            "name" : "dream",
+	            "size" : 22.0165029155307
+	        }, 
+	        {
+	            "name" : "face",
+	            "size" : 21.2483677962742
+	        }, 
+	        {
+	            "name" : "insurance",
+	            "size" : 19.8136387959201
+	        }, 
+	        {
+	            "name" : "cleaning",
+	            "size" : 18.9953265511337
+	        }, 
+	        {
+	            "name" : "dim",
+	            "size" : 18.0157780019239
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_8",
+	    "children" : [ 
+	        {
+	            "name" : "wow",
+	            "size" : 112.82945238614
+	        }, 
+	        {
+	            "name" : "boyfriend",
+	            "size" : 83.564016396472
+	        }, 
+	        {
+	            "name" : "boba",
+	            "size" : 51.4580367065251
+	        }, 
+	        {
+	            "name" : "gelato",
+	            "size" : 43.6208924521953
+	        }, 
+	        {
+	            "name" : "mango",
+	            "size" : 41.8378541914914
+	        }, 
+	        {
+	            "name" : "establishment",
+	            "size" : 38.7579877432192
+	        }, 
+	        {
+	            "name" : "candy",
+	            "size" : 37.107367045564
+	        }, 
+	        {
+	            "name" : "cheap",
+	            "size" : 30.7283298431109
+	        }, 
+	        {
+	            "name" : "island",
+	            "size" : 26.5874875976759
+	        }, 
+	        {
+	            "name" : "shame",
+	            "size" : 25.2097934530611
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_9",
+	    "children" : [ 
+	        {
+	            "name" : "flavor",
+	            "size" : 84.4750311630587
+	        }, 
+	        {
+	            "name" : "meat",
+	            "size" : 51.2918468592612
+	        }, 
+	        {
+	            "name" : "taste",
+	            "size" : 43.5968961737801
+	        }, 
+	        {
+	            "name" : "sauce",
+	            "size" : 39.0905155416512
+	        }, 
+	        {
+	            "name" : "side",
+	            "size" : 20.7444938368764
+	        }, 
+	        {
+	            "name" : "bean",
+	            "size" : 19.9783503900995
+	        }, 
+	        {
+	            "name" : "beef",
+	            "size" : 19.520177894042
+	        }, 
+	        {
+	            "name" : "bit",
+	            "size" : 17.0242750789063
+	        }, 
+	        {
+	            "name" : "pepper",
+	            "size" : 16.5617699546286
+	        }, 
+	        {
+	            "name" : "rib",
+	            "size" : 14.0922944031836
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_10",
+	    "children" : [ 
+	        {
+	            "name" : "roll",
+	            "size" : 151.975248498629
+	        }, 
+	        {
+	            "name" : "sushi",
+	            "size" : 109.290248270598
+	        }, 
+	        {
+	            "name" : "ramen",
+	            "size" : 56.4987931296834
+	        }, 
+	        {
+	            "name" : "pho",
+	            "size" : 37.9742842267234
+	        }, 
+	        {
+	            "name" : "place",
+	            "size" : 35.1678563399726
+	        }, 
+	        {
+	            "name" : "groupon",
+	            "size" : 31.9585584352703
+	        }, 
+	        {
+	            "name" : "photo",
+	            "size" : 28.9958694078885
+	        }, 
+	        {
+	            "name" : "salmon",
+	            "size" : 18.2876254606739
+	        }, 
+	        {
+	            "name" : "fish",
+	            "size" : 17.9955383889759
+	        }, 
+	        {
+	            "name" : "sashimi",
+	            "size" : 17.7124304887351
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_11",
+	    "children" : [ 
+	        {
+	            "name" : "coffee",
+	            "size" : 97.7127625087764
+	        }, 
+	        {
+	            "name" : "breakfast",
+	            "size" : 78.6383283504527
+	        }, 
+	        {
+	            "name" : "egg",
+	            "size" : 55.3010723663226
+	        }, 
+	        {
+	            "name" : "tea",
+	            "size" : 39.9003184990395
+	        }, 
+	        {
+	            "name" : "place",
+	            "size" : 36.89077623566
+	        }, 
+	        {
+	            "name" : "pancake",
+	            "size" : 28.6590652517843
+	        }, 
+	        {
+	            "name" : "morning",
+	            "size" : 23.0388125623002
+	        }, 
+	        {
+	            "name" : "toast",
+	            "size" : 20.8846529315027
+	        }, 
+	        {
+	            "name" : "cup",
+	            "size" : 15.9581438855717
+	        }, 
+	        {
+	            "name" : "brunch",
+	            "size" : 15.6613371279325
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_12",
+	    "children" : [ 
+	        {
+	            "name" : "kid",
+	            "size" : 153.399173900781
+	        }, 
+	        {
+	            "name" : "fun",
+	            "size" : 104.538481582212
+	        }, 
+	        {
+	            "name" : "child",
+	            "size" : 40.7482780204699
+	        }, 
+	        {
+	            "name" : "art",
+	            "size" : 31.7499870396524
+	        }, 
+	        {
+	            "name" : "desert",
+	            "size" : 26.0207430904618
+	        }, 
+	        {
+	            "name" : "place",
+	            "size" : 25.6690807529456
+	        }, 
+	        {
+	            "name" : "parent",
+	            "size" : 20.6266203651965
+	        }, 
+	        {
+	            "name" : "lot",
+	            "size" : 18.1966852711949
+	        }, 
+	        {
+	            "name" : "year",
+	            "size" : 16.7821717992058
+	        }, 
+	        {
+	            "name" : "energy",
+	            "size" : 15.8815802605955
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_13",
+	    "children" : [ 
+	        {
+	            "name" : "wine",
+	            "size" : 107.324173328134
+	        }, 
+	        {
+	            "name" : "glass",
+	            "size" : 103.44199648989
+	        }, 
+	        {
+	            "name" : "curry",
+	            "size" : 69.8733849153378
+	        }, 
+	        {
+	            "name" : "concept",
+	            "size" : 53.7652408865472
+	        }, 
+	        {
+	            "name" : "bottle",
+	            "size" : 31.7270187594093
+	        }, 
+	        {
+	            "name" : "hummus",
+	            "size" : 24.5514647663936
+	        }, 
+	        {
+	            "name" : "lamb",
+	            "size" : 23.7641811849552
+	        }, 
+	        {
+	            "name" : "ambience",
+	            "size" : 22.4011343737668
+	        }, 
+	        {
+	            "name" : "selection",
+	            "size" : 20.6963237320678
+	        }, 
+	        {
+	            "name" : "starter",
+	            "size" : 19.761299341611
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_14",
+	    "children" : [ 
+	        {
+	            "name" : "chip",
+	            "size" : 134.992873910033
+	        }, 
+	        {
+	            "name" : "juice",
+	            "size" : 90.75034170999
+	        }, 
+	        {
+	            "name" : "burrito",
+	            "size" : 64.8884021954196
+	        }, 
+	        {
+	            "name" : "salsa",
+	            "size" : 61.3890374650053
+	        }, 
+	        {
+	            "name" : "corn",
+	            "size" : 37.2913450368294
+	        }, 
+	        {
+	            "name" : "dip",
+	            "size" : 32.8311265407
+	        }, 
+	        {
+	            "name" : "chili",
+	            "size" : 31.9577930424132
+	        }, 
+	        {
+	            "name" : "guacamole",
+	            "size" : 18.5429458450473
+	        }, 
+	        {
+	            "name" : "cheese",
+	            "size" : 17.8016560160645
+	        }, 
+	        {
+	            "name" : "homemade",
+	            "size" : 14.1361408653714
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_15",
+	    "children" : [ 
+	        {
+	            "name" : "room",
+	            "size" : 115.88974983175
+	        }, 
+	        {
+	            "name" : "hotel",
+	            "size" : 49.3012050638035
+	        }, 
+	        {
+	            "name" : "pool",
+	            "size" : 28.7020093141296
+	        }, 
+	        {
+	            "name" : "floor",
+	            "size" : 27.024830379923
+	        }, 
+	        {
+	            "name" : "stay",
+	            "size" : 25.165478497332
+	        }, 
+	        {
+	            "name" : "area",
+	            "size" : 21.3117828643987
+	        }, 
+	        {
+	            "name" : "night",
+	            "size" : 18.0505151322468
+	        }, 
+	        {
+	            "name" : "bathroom",
+	            "size" : 17.2525942345633
+	        }, 
+	        {
+	            "name" : "waffle",
+	            "size" : 14.4014707558259
+	        }, 
+	        {
+	            "name" : "day",
+	            "size" : 13.2048419092246
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_16",
+	    "children" : [ 
+	        {
+	            "name" : "food",
+	            "size" : 161.838054073737
+	        }, 
+	        {
+	            "name" : "place",
+	            "size" : 159.893639009151
+	        }, 
+	        {
+	            "name" : "service",
+	            "size" : 67.4038429459175
+	        }, 
+	        {
+	            "name" : "price",
+	            "size" : 40.214612304903
+	        }, 
+	        {
+	            "name" : "time",
+	            "size" : 34.5315821263584
+	        }, 
+	        {
+	            "name" : "staff",
+	            "size" : 31.7254712863389
+	        }, 
+	        {
+	            "name" : "location",
+	            "size" : 29.9449806375594
+	        }, 
+	        {
+	            "name" : "star",
+	            "size" : 24.0428244733487
+	        }, 
+	        {
+	            "name" : "quality",
+	            "size" : 21.2677841235158
+	        }, 
+	        {
+	            "name" : "restaurant",
+	            "size" : 19.3405109772155
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_17",
+	    "children" : [ 
+	        {
+	            "name" : "lunch",
+	            "size" : 149.195068480774
+	        }, 
+	        {
+	            "name" : "taco",
+	            "size" : 136.522772722782
+	        }, 
+	        {
+	            "name" : "amazing",
+	            "size" : 71.4887552771869
+	        }, 
+	        {
+	            "name" : "bbq",
+	            "size" : 49.9027388082835
+	        }, 
+	        {
+	            "name" : "food",
+	            "size" : 48.8694153304032
+	        }, 
+	        {
+	            "name" : "buffet",
+	            "size" : 46.0094120416578
+	        }, 
+	        {
+	            "name" : "brisket",
+	            "size" : 25.0752416182433
+	        }, 
+	        {
+	            "name" : "tortilla",
+	            "size" : 24.0889170571877
+	        }, 
+	        {
+	            "name" : "chicken",
+	            "size" : 20.073443414758
+	        }, 
+	        {
+	            "name" : "place",
+	            "size" : 19.8170669997455
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_18",
+	    "children" : [ 
+	        {
+	            "name" : "chef",
+	            "size" : 121.037724094234
+	        }, 
+	        {
+	            "name" : "casino",
+	            "size" : 65.3336076037399
+	        }, 
+	        {
+	            "name" : "mac",
+	            "size" : 49.4119161373231
+	        }, 
+	        {
+	            "name" : "medium",
+	            "size" : 37.4409076788664
+	        }, 
+	        {
+	            "name" : "green",
+	            "size" : 26.7370261384112
+	        }, 
+	        {
+	            "name" : "mushroom",
+	            "size" : 22.0815916341146
+	        }, 
+	        {
+	            "name" : "cheese",
+	            "size" : 19.843603407293
+	        }, 
+	        {
+	            "name" : "smoothy",
+	            "size" : 19.4412830771756
+	        }, 
+	        {
+	            "name" : "bf",
+	            "size" : 18.6446980500455
+	        }, 
+	        {
+	            "name" : "perfection",
+	            "size" : 18.5672299680964
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_19",
+	    "children" : [ 
+	        {
+	            "name" : "job",
+	            "size" : 85.2247177393822
+	        }, 
+	        {
+	            "name" : "company",
+	            "size" : 67.8655578590953
+	        }, 
+	        {
+	            "name" : "nail",
+	            "size" : 59.6154010433228
+	        }, 
+	        {
+	            "name" : "salon",
+	            "size" : 57.2418481423797
+	        }, 
+	        {
+	            "name" : "massage",
+	            "size" : 54.5525308248916
+	        }, 
+	        {
+	            "name" : "foot",
+	            "size" : 39.5328650749963
+	        }, 
+	        {
+	            "name" : "appointment",
+	            "size" : 27.4390295162086
+	        }, 
+	        {
+	            "name" : "pedicure",
+	            "size" : 27.0926804768159
+	        }, 
+	        {
+	            "name" : "ranch",
+	            "size" : 19.5478769401855
+	        }, 
+	        {
+	            "name" : "professional",
+	            "size" : 18.5890874834736
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_20",
+	    "children" : [ 
+	        {
+	            "name" : "dog",
+	            "size" : 195.914344664626
+	        }, 
+	        {
+	            "name" : "cookie",
+	            "size" : 40.4657329000091
+	        }, 
+	        {
+	            "name" : "truffle",
+	            "size" : 36.868373846064
+	        }, 
+	        {
+	            "name" : "chipotle",
+	            "size" : 28.4946807016145
+	        }, 
+	        {
+	            "name" : "treat",
+	            "size" : 27.3389922459606
+	        }, 
+	        {
+	            "name" : "scoop",
+	            "size" : 26.6105759053361
+	        }, 
+	        {
+	            "name" : "chicago",
+	            "size" : 25.8388500306057
+	        }, 
+	        {
+	            "name" : "chill",
+	            "size" : 23.5703509698769
+	        }, 
+	        {
+	            "name" : "cilantro",
+	            "size" : 22.3824876973567
+	        }, 
+	        {
+	            "name" : "blueberry",
+	            "size" : 20.3482780443943
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_21",
+	    "children" : [ 
+	        {
+	            "name" : "entrance",
+	            "size" : 33.3867383265648
+	        }, 
+	        {
+	            "name" : "local",
+	            "size" : 28.8550466798577
+	        }, 
+	        {
+	            "name" : "word",
+	            "size" : 27.5224260446417
+	        }, 
+	        {
+	            "name" : "jam",
+	            "size" : 26.5343749255036
+	        }, 
+	        {
+	            "name" : "joe",
+	            "size" : 25.16415829433
+	        }, 
+	        {
+	            "name" : "mother",
+	            "size" : 23.2418177868052
+	        }, 
+	        {
+	            "name" : "men",
+	            "size" : 21.759765359512
+	        }, 
+	        {
+	            "name" : "gordon",
+	            "size" : 21.1495544914207
+	        }, 
+	        {
+	            "name" : "grill",
+	            "size" : 20.9363811088306
+	        }, 
+	        {
+	            "name" : "finish",
+	            "size" : 18.7976020632014
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_22",
+	    "children" : [ 
+	        {
+	            "name" : "owner",
+	            "size" : 212.022714247618
+	        }, 
+	        {
+	            "name" : "wife",
+	            "size" : 109.178655235237
+	        }, 
+	        {
+	            "name" : "business",
+	            "size" : 101.794338654531
+	        }, 
+	        {
+	            "name" : "coupon",
+	            "size" : 27.6652935193695
+	        }, 
+	        {
+	            "name" : "sister",
+	            "size" : 23.4346044420895
+	        }, 
+	        {
+	            "name" : "smile",
+	            "size" : 17.0982334813982
+	        }, 
+	        {
+	            "name" : "dress",
+	            "size" : 15.5041564720133
+	        }, 
+	        {
+	            "name" : "beautiful",
+	            "size" : 13.7134419751608
+	        }, 
+	        {
+	            "name" : "review",
+	            "size" : 13.1819724207006
+	        }, 
+	        {
+	            "name" : "student",
+	            "size" : 12.882164463868
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_23",
+	    "children" : [ 
+	        {
+	            "name" : "spring",
+	            "size" : 75.4227630888828
+	        }, 
+	        {
+	            "name" : "heard",
+	            "size" : 65.4629383969582
+	        }, 
+	        {
+	            "name" : "specialty",
+	            "size" : 50.2568442601521
+	        }, 
+	        {
+	            "name" : "quick",
+	            "size" : 50.0310857493404
+	        }, 
+	        {
+	            "name" : "inside",
+	            "size" : 42.1659579688418
+	        }, 
+	        {
+	            "name" : "fire",
+	            "size" : 40.2785719534752
+	        }, 
+	        {
+	            "name" : "al",
+	            "size" : 37.1222358806936
+	        }, 
+	        {
+	            "name" : "effort",
+	            "size" : 33.7908520784858
+	        }, 
+	        {
+	            "name" : "caesar",
+	            "size" : 31.5070261629941
+	        }, 
+	        {
+	            "name" : "dad",
+	            "size" : 23.3280804308432
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_24",
+	    "children" : [ 
+	        {
+	            "name" : "parking",
+	            "size" : 68.6710624510563
+	        }, 
+	        {
+	            "name" : "cupcake",
+	            "size" : 65.259658064685
+	        }, 
+	        {
+	            "name" : "lot",
+	            "size" : 56.3215603015144
+	        }, 
+	        {
+	            "name" : "saturday",
+	            "size" : 43.04637706617
+	        }, 
+	        {
+	            "name" : "yesterday",
+	            "size" : 38.4223900035935
+	        }, 
+	        {
+	            "name" : "smell",
+	            "size" : 35.5491645540018
+	        }, 
+	        {
+	            "name" : "finger",
+	            "size" : 28.0179099500845
+	        }, 
+	        {
+	            "name" : "madison",
+	            "size" : 23.059528167473
+	        }, 
+	        {
+	            "name" : "regular",
+	            "size" : 21.5863661519643
+	        }, 
+	        {
+	            "name" : "opportunity",
+	            "size" : 21.0039382706539
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_25",
+	    "children" : [ 
+	        {
+	            "name" : "buck",
+	            "size" : 66.6548466833784
+	        }, 
+	        {
+	            "name" : "duck",
+	            "size" : 51.5877589161841
+	        }, 
+	        {
+	            "name" : "crepe",
+	            "size" : 39.8365102637465
+	        }, 
+	        {
+	            "name" : "leg",
+	            "size" : 30.9121795899154
+	        }, 
+	        {
+	            "name" : "pig",
+	            "size" : 30.2674327873419
+	        }, 
+	        {
+	            "name" : "fat",
+	            "size" : 23.9606163908052
+	        }, 
+	        {
+	            "name" : "refreshing",
+	            "size" : 20.9060554952007
+	        }, 
+	        {
+	            "name" : "custom",
+	            "size" : 18.7928120178615
+	        }, 
+	        {
+	            "name" : "wheat",
+	            "size" : 17.2953574660185
+	        }, 
+	        {
+	            "name" : "fancy",
+	            "size" : 17.0563326391442
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_26",
+	    "children" : [ 
+	        {
+	            "name" : "drive",
+	            "size" : 55.908456290022
+	        }, 
+	        {
+	            "name" : "purchase",
+	            "size" : 29.0527673706394
+	        }, 
+	        {
+	            "name" : "fee",
+	            "size" : 27.656747418392
+	        }, 
+	        {
+	            "name" : "security",
+	            "size" : 25.352500205737
+	        }, 
+	        {
+	            "name" : "dozen",
+	            "size" : 24.9363538097454
+	        }, 
+	        {
+	            "name" : "buy",
+	            "size" : 24.9207992984134
+	        }, 
+	        {
+	            "name" : "mile",
+	            "size" : 24.2019531905461
+	        }, 
+	        {
+	            "name" : "result",
+	            "size" : 22.9664674116379
+	        }, 
+	        {
+	            "name" : "online",
+	            "size" : 22.9460325547338
+	        }, 
+	        {
+	            "name" : "road",
+	            "size" : 21.8946787106507
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_27",
+	    "children" : [ 
+	        {
+	            "name" : "vega",
+	            "size" : 202.4924955512
+	        }, 
+	        {
+	            "name" : "car",
+	            "size" : 76.4973348259041
+	        }, 
+	        {
+	            "name" : "change",
+	            "size" : 32.3534772195704
+	        }, 
+	        {
+	            "name" : "trip",
+	            "size" : 31.9272663677193
+	        }, 
+	        {
+	            "name" : "truck",
+	            "size" : 27.6133129184946
+	        }, 
+	        {
+	            "name" : "time",
+	            "size" : 24.6398871079627
+	        }, 
+	        {
+	            "name" : "guy",
+	            "size" : 16.86836791793
+	        }, 
+	        {
+	            "name" : "price",
+	            "size" : 16.5461667206619
+	        }, 
+	        {
+	            "name" : "oil",
+	            "size" : 15.3052319349998
+	        }, 
+	        {
+	            "name" : "ride",
+	            "size" : 13.3619815048954
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_28",
+	    "children" : [ 
+	        {
+	            "name" : "restaurant",
+	            "size" : 65.6971235970757
+	        }, 
+	        {
+	            "name" : "food",
+	            "size" : 64.1403915717425
+	        }, 
+	        {
+	            "name" : "menu",
+	            "size" : 40.3926006484153
+	        }, 
+	        {
+	            "name" : "service",
+	            "size" : 36.1487707469917
+	        }, 
+	        {
+	            "name" : "table",
+	            "size" : 29.6287613428426
+	        }, 
+	        {
+	            "name" : "dinner",
+	            "size" : 29.3316961410255
+	        }, 
+	        {
+	            "name" : "server",
+	            "size" : 27.7758969206952
+	        }, 
+	        {
+	            "name" : "party",
+	            "size" : 24.5882922264955
+	        }, 
+	        {
+	            "name" : "experience",
+	            "size" : 24.3125485460333
+	        }, 
+	        {
+	            "name" : "meal",
+	            "size" : 23.1931325006104
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_29",
+	    "children" : [ 
+	        {
+	            "name" : "husband",
+	            "size" : 89.2326851107074
+	        }, 
+	        {
+	            "name" : "hour",
+	            "size" : 56.0749814492947
+	        }, 
+	        {
+	            "name" : "cocktail",
+	            "size" : 43.4613486220851
+	        }, 
+	        {
+	            "name" : "patio",
+	            "size" : 42.4302904855765
+	        }, 
+	        {
+	            "name" : "bar",
+	            "size" : 37.5689284321627
+	        }, 
+	        {
+	            "name" : "decor",
+	            "size" : 34.0965642590857
+	        }, 
+	        {
+	            "name" : "menu",
+	            "size" : 33.569764420138
+	        }, 
+	        {
+	            "name" : "drink",
+	            "size" : 29.9448116381314
+	        }, 
+	        {
+	            "name" : "seating",
+	            "size" : 23.9865858660914
+	        }, 
+	        {
+	            "name" : "spot",
+	            "size" : 22.724069763419
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_30",
+	    "children" : [ 
+	        {
+	            "name" : "bacon",
+	            "size" : 87.5353085417075
+	        }, 
+	        {
+	            "name" : "booth",
+	            "size" : 43.6706570398654
+	        }, 
+	        {
+	            "name" : "kinda",
+	            "size" : 43.5089243221424
+	        }, 
+	        {
+	            "name" : "pickle",
+	            "size" : 42.844678024748
+	        }, 
+	        {
+	            "name" : "yeah",
+	            "size" : 37.9693096954358
+	        }, 
+	        {
+	            "name" : "smoothie",
+	            "size" : 31.6231910563476
+	        }, 
+	        {
+	            "name" : "draft",
+	            "size" : 28.9219372054326
+	        }, 
+	        {
+	            "name" : "ketchup",
+	            "size" : 27.7735405563406
+	        }, 
+	        {
+	            "name" : "restroom",
+	            "size" : 24.2375449112288
+	        }, 
+	        {
+	            "name" : "video",
+	            "size" : 24.1621206588687
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_31",
+	    "children" : [ 
+	        {
+	            "name" : "show",
+	            "size" : 191.573404879203
+	        }, 
+	        {
+	            "name" : "family",
+	            "size" : 167.34398325143
+	        }, 
+	        {
+	            "name" : "seat",
+	            "size" : 63.9042350942034
+	        }, 
+	        {
+	            "name" : "ticket",
+	            "size" : 61.1271627725697
+	        }, 
+	        {
+	            "name" : "client",
+	            "size" : 25.3817340533331
+	        }, 
+	        {
+	            "name" : "gem",
+	            "size" : 20.8300522103392
+	        }, 
+	        {
+	            "name" : "velvet",
+	            "size" : 18.47573471672
+	        }, 
+	        {
+	            "name" : "concert",
+	            "size" : 13.9021578634976
+	        }, 
+	        {
+	            "name" : "choose",
+	            "size" : 13.7751830758115
+	        }, 
+	        {
+	            "name" : "blast",
+	            "size" : 13.7245157854167
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_32",
+	    "children" : [ 
+	        {
+	            "name" : "burger",
+	            "size" : 234.117221064431
+	        }, 
+	        {
+	            "name" : "fry",
+	            "size" : 165.922809560498
+	        }, 
+	        {
+	            "name" : "onion",
+	            "size" : 33.2254871137607
+	        }, 
+	        {
+	            "name" : "bun",
+	            "size" : 32.9964420460397
+	        }, 
+	        {
+	            "name" : "bacon",
+	            "size" : 23.8726169173931
+	        }, 
+	        {
+	            "name" : "opening",
+	            "size" : 20.8669081453884
+	        }, 
+	        {
+	            "name" : "ring",
+	            "size" : 20.8625592880822
+	        }, 
+	        {
+	            "name" : "order",
+	            "size" : 19.8072081372524
+	        }, 
+	        {
+	            "name" : "shake",
+	            "size" : 17.5162792075849
+	        }, 
+	        {
+	            "name" : "cheese",
+	            "size" : 16.0398885889909
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_33",
+	    "children" : [ 
+	        {
+	            "name" : "rock",
+	            "size" : 98.482585990303
+	        }, 
+	        {
+	            "name" : "pie",
+	            "size" : 85.8580133663392
+	        }, 
+	        {
+	            "name" : "honey",
+	            "size" : 48.4591207042045
+	        }, 
+	        {
+	            "name" : "pop",
+	            "size" : 39.3694728077931
+	        }, 
+	        {
+	            "name" : "miss",
+	            "size" : 26.8703791966566
+	        }, 
+	        {
+	            "name" : "joke",
+	            "size" : 25.654374786557
+	        }, 
+	        {
+	            "name" : "crap",
+	            "size" : 23.4027735551395
+	        }, 
+	        {
+	            "name" : "haha",
+	            "size" : 22.1105394555489
+	        }, 
+	        {
+	            "name" : "pm",
+	            "size" : 21.3355790899399
+	        }, 
+	        {
+	            "name" : "joint",
+	            "size" : 20.6589494694809
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_34",
+	    "children" : [ 
+	        {
+	            "name" : "%",
+	            "size" : 85.6875724571129
+	        }, 
+	        {
+	            "name" : "donut",
+	            "size" : 81.692816599888
+	        }, 
+	        {
+	            "name" : "picture",
+	            "size" : 77.1587923528565
+	        }, 
+	        {
+	            "name" : "lol",
+	            "size" : 56.3773619938064
+	        }, 
+	        {
+	            "name" : "apple",
+	            "size" : 53.233422121706
+	        }, 
+	        {
+	            "name" : "window",
+	            "size" : 42.4458534175969
+	        }, 
+	        {
+	            "name" : "pricing",
+	            "size" : 31.4502430383622
+	        }, 
+	        {
+	            "name" : "studio",
+	            "size" : 28.7398076650137
+	        }, 
+	        {
+	            "name" : "worker",
+	            "size" : 25.5972131825902
+	        }, 
+	        {
+	            "name" : "monday",
+	            "size" : 21.2984346228892
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_35",
+	    "children" : [ 
+	        {
+	            "name" : "bar",
+	            "size" : 93.3449130477064
+	        }, 
+	        {
+	            "name" : "beer",
+	            "size" : 82.5390083645366
+	        }, 
+	        {
+	            "name" : "place",
+	            "size" : 56.3178121995818
+	        }, 
+	        {
+	            "name" : "drink",
+	            "size" : 42.4651822572678
+	        }, 
+	        {
+	            "name" : "night",
+	            "size" : 39.1789197098839
+	        }, 
+	        {
+	            "name" : "music",
+	            "size" : 34.6623453655359
+	        }, 
+	        {
+	            "name" : "game",
+	            "size" : 22.7579099296789
+	        }, 
+	        {
+	            "name" : "bartender",
+	            "size" : 22.2639864251587
+	        }, 
+	        {
+	            "name" : "time",
+	            "size" : 19.9055724792535
+	        }, 
+	        {
+	            "name" : "selection",
+	            "size" : 17.1864900158963
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_36",
+	    "children" : [ 
+	        {
+	            "name" : "strip",
+	            "size" : 141.709785348437
+	        }, 
+	        {
+	            "name" : "station",
+	            "size" : 52.4523526505148
+	        }, 
+	        {
+	            "name" : "location",
+	            "size" : 51.6753924250863
+	        }, 
+	        {
+	            "name" : "book",
+	            "size" : 47.8619291184597
+	        }, 
+	        {
+	            "name" : "mall",
+	            "size" : 35.8911082468147
+	        }, 
+	        {
+	            "name" : "flight",
+	            "size" : 27.3730892326898
+	        }, 
+	        {
+	            "name" : "yogurt",
+	            "size" : 25.1915129092308
+	        }, 
+	        {
+	            "name" : "brother",
+	            "size" : 18.5088774356421
+	        }, 
+	        {
+	            "name" : "pita",
+	            "size" : 18.0854516158369
+	        }, 
+	        {
+	            "name" : "snack",
+	            "size" : 17.4162598684482
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_37",
+	    "children" : [ 
+	        {
+	            "name" : "style",
+	            "size" : 136.810734981963
+	        }, 
+	        {
+	            "name" : "wall",
+	            "size" : 67.3182566258629
+	        }, 
+	        {
+	            "name" : "box",
+	            "size" : 54.0602524006663
+	        }, 
+	        {
+	            "name" : "eye",
+	            "size" : 44.6321313174386
+	        }, 
+	        {
+	            "name" : "notch",
+	            "size" : 41.9853091588673
+	        }, 
+	        {
+	            "name" : "rib",
+	            "size" : 38.2562183212379
+	        }, 
+	        {
+	            "name" : "wood",
+	            "size" : 29.4013597338354
+	        }, 
+	        {
+	            "name" : "beat",
+	            "size" : 26.94731235152
+	        }, 
+	        {
+	            "name" : "balance",
+	            "size" : 23.5802884858609
+	        }, 
+	        {
+	            "name" : "hole",
+	            "size" : 22.7746828744538
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_38",
+	    "children" : [ 
+	        {
+	            "name" : "top",
+	            "size" : 63.2386880009115
+	        }, 
+	        {
+	            "name" : "milk",
+	            "size" : 51.9849875774062
+	        }, 
+	        {
+	            "name" : "strawberry",
+	            "size" : 50.1698943007958
+	        }, 
+	        {
+	            "name" : "fruit",
+	            "size" : 39.849030134169
+	        }, 
+	        {
+	            "name" : "avocado",
+	            "size" : 32.6914284610758
+	        }, 
+	        {
+	            "name" : "date",
+	            "size" : 30.2063251288824
+	        }, 
+	        {
+	            "name" : "banana",
+	            "size" : 23.0456463883771
+	        }, 
+	        {
+	            "name" : "bacon",
+	            "size" : 22.8143393767959
+	        }, 
+	        {
+	            "name" : "mayo",
+	            "size" : 22.7553840634582
+	        }, 
+	        {
+	            "name" : "signature",
+	            "size" : 22.6343624783681
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_39",
+	    "children" : [ 
+	        {
+	            "name" : "order",
+	            "size" : 94.5680485490925
+	        }, 
+	        {
+	            "name" : "minute",
+	            "size" : 63.5921082787227
+	        }, 
+	        {
+	            "name" : "time",
+	            "size" : 62.0210551332239
+	        }, 
+	        {
+	            "name" : "food",
+	            "size" : 59.1082359574639
+	        }, 
+	        {
+	            "name" : "drink",
+	            "size" : 39.7999940209046
+	        }, 
+	        {
+	            "name" : "service",
+	            "size" : 35.8360611295129
+	        }, 
+	        {
+	            "name" : "wait",
+	            "size" : 33.1856004503567
+	        }, 
+	        {
+	            "name" : "place",
+	            "size" : 32.7022610502866
+	        }, 
+	        {
+	            "name" : "water",
+	            "size" : 27.6492195915507
+	        }, 
+	        {
+	            "name" : "hour",
+	            "size" : 23.31489580525
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_40",
+	    "children" : [ 
+	        {
+	            "name" : "pork",
+	            "size" : 103.551735917484
+	        }, 
+	        {
+	            "name" : "thai",
+	            "size" : 46.4431974027829
+	        }, 
+	        {
+	            "name" : "spicy",
+	            "size" : 45.5045797734684
+	        }, 
+	        {
+	            "name" : "spice",
+	            "size" : 35.0369361413096
+	        }, 
+	        {
+	            "name" : "noodle",
+	            "size" : 31.4061432068583
+	        }, 
+	        {
+	            "name" : "pot",
+	            "size" : 23.3270535495709
+	        }, 
+	        {
+	            "name" : "dish",
+	            "size" : 20.9567843936242
+	        }, 
+	        {
+	            "name" : "dumpling",
+	            "size" : 18.187510401275
+	        }, 
+	        {
+	            "name" : "tea",
+	            "size" : 16.7600895135203
+	        }, 
+	        {
+	            "name" : "tofu",
+	            "size" : 15.4122581054204
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_41",
+	    "children" : [ 
+	        {
+	            "name" : "la",
+	            "size" : 171.481229198808
+	        }, 
+	        {
+	            "name" : "park",
+	            "size" : 111.770370227524
+	        }, 
+	        {
+	            "name" : "adult",
+	            "size" : 35.8382314518092
+	        }, 
+	        {
+	            "name" : "gift",
+	            "size" : 33.7445737956062
+	        }, 
+	        {
+	            "name" : "theme",
+	            "size" : 24.9420419129777
+	        }, 
+	        {
+	            "name" : "garden",
+	            "size" : 22.8867097098633
+	        }, 
+	        {
+	            "name" : "prefer",
+	            "size" : 21.1607315514643
+	        }, 
+	        {
+	            "name" : "roller",
+	            "size" : 18.7155420484046
+	        }, 
+	        {
+	            "name" : "seed",
+	            "size" : 17.7105867970365
+	        }, 
+	        {
+	            "name" : "mike",
+	            "size" : 17.4401453843374
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_42",
+	    "children" : [ 
+	        {
+	            "name" : "cream",
+	            "size" : 223.368502381359
+	        }, 
+	        {
+	            "name" : "ice",
+	            "size" : 221.179387562952
+	        }, 
+	        {
+	            "name" : "bomb",
+	            "size" : 28.2593621932352
+	        }, 
+	        {
+	            "name" : "sun",
+	            "size" : 20.1529272053396
+	        }, 
+	        {
+	            "name" : "bell",
+	            "size" : 16.9925304473186
+	        }, 
+	        {
+	            "name" : "stone",
+	            "size" : 16.4991456082542
+	        }, 
+	        {
+	            "name" : "chorizo",
+	            "size" : 15.4308380562623
+	        }, 
+	        {
+	            "name" : "brewery",
+	            "size" : 13.6839380757903
+	        }, 
+	        {
+	            "name" : "paint",
+	            "size" : 12.9957826145962
+	        }, 
+	        {
+	            "name" : "community",
+	            "size" : 12.6667505426165
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_43",
+	    "children" : [ 
+	        {
+	            "name" : "card",
+	            "size" : 110.591271434396
+	        }, 
+	        {
+	            "name" : "glad",
+	            "size" : 57.2909235329709
+	        }, 
+	        {
+	            "name" : "baby",
+	            "size" : 50.1499893148953
+	        }, 
+	        {
+	            "name" : "school",
+	            "size" : 49.436178798959
+	        }, 
+	        {
+	            "name" : "credit",
+	            "size" : 45.9208373949148
+	        }, 
+	        {
+	            "name" : "hubby",
+	            "size" : 42.0187740994996
+	        }, 
+	        {
+	            "name" : "boy",
+	            "size" : 33.8855869781387
+	        }, 
+	        {
+	            "name" : "http",
+	            "size" : 30.6976828949264
+	        }, 
+	        {
+	            "name" : "pain",
+	            "size" : 30.4025151995597
+	        }, 
+	        {
+	            "name" : "cash",
+	            "size" : 29.0556487064076
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_44",
+	    "children" : [ 
+	        {
+	            "name" : "customer",
+	            "size" : 92.4513305941329
+	        }, 
+	        {
+	            "name" : "service",
+	            "size" : 89.6174697570698
+	        }, 
+	        {
+	            "name" : "time",
+	            "size" : 39.018534277908
+	        }, 
+	        {
+	            "name" : "hair",
+	            "size" : 28.6915048708916
+	        }, 
+	        {
+	            "name" : "manager",
+	            "size" : 25.86598818154
+	        }, 
+	        {
+	            "name" : "phone",
+	            "size" : 25.6888066089237
+	        }, 
+	        {
+	            "name" : "employee",
+	            "size" : 23.4961702949329
+	        }, 
+	        {
+	            "name" : "work",
+	            "size" : 21.2661872505441
+	        }, 
+	        {
+	            "name" : "business",
+	            "size" : 20.3457644155837
+	        }, 
+	        {
+	            "name" : "call",
+	            "size" : 19.6129585576543
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_45",
+	    "children" : [ 
+	        {
+	            "name" : "sandwich",
+	            "size" : 97.5641363138344
+	        }, 
+	        {
+	            "name" : "chocolate",
+	            "size" : 52.2413880669333
+	        }, 
+	        {
+	            "name" : "bread",
+	            "size" : 36.955991894601
+	        }, 
+	        {
+	            "name" : "cake",
+	            "size" : 36.2332045205011
+	        }, 
+	        {
+	            "name" : "dessert",
+	            "size" : 36.1056873613054
+	        }, 
+	        {
+	            "name" : "place",
+	            "size" : 25.2218885007755
+	        }, 
+	        {
+	            "name" : "flavor",
+	            "size" : 23.7973884471572
+	        }, 
+	        {
+	            "name" : "cheese",
+	            "size" : 17.9172592376825
+	        }, 
+	        {
+	            "name" : "yum",
+	            "size" : 17.9078725349764
+	        }, 
+	        {
+	            "name" : "sweet",
+	            "size" : 17.8941384589725
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_46",
+	    "children" : [ 
+	        {
+	            "name" : "time",
+	            "size" : 95.7297041236093
+	        }, 
+	        {
+	            "name" : "day",
+	            "size" : 53.3538244610944
+	        }, 
+	        {
+	            "name" : "staff",
+	            "size" : 52.6299601639708
+	        }, 
+	        {
+	            "name" : "week",
+	            "size" : 42.8817871011787
+	        }, 
+	        {
+	            "name" : "wing",
+	            "size" : 37.746052949633
+	        }, 
+	        {
+	            "name" : "work",
+	            "size" : 35.885913860473
+	        }, 
+	        {
+	            "name" : "year",
+	            "size" : 35.5823644545649
+	        }, 
+	        {
+	            "name" : "month",
+	            "size" : 30.2127413365211
+	        }, 
+	        {
+	            "name" : "visit",
+	            "size" : 29.4702336999173
+	        }, 
+	        {
+	            "name" : "care",
+	            "size" : 27.7877366960495
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_47",
+	    "children" : [ 
+	        {
+	            "name" : "view",
+	            "size" : 57.504654468743
+	        }, 
+	        {
+	            "name" : "design",
+	            "size" : 50.0650154803105
+	        }, 
+	        {
+	            "name" : "skin",
+	            "size" : 48.5276846514774
+	        }, 
+	        {
+	            "name" : "airport",
+	            "size" : 47.3677646903413
+	        }, 
+	        {
+	            "name" : "dj",
+	            "size" : 41.6158113689642
+	        }, 
+	        {
+	            "name" : "set",
+	            "size" : 36.3860536686096
+	        }, 
+	        {
+	            "name" : "bunch",
+	            "size" : 36.2626756259537
+	        }, 
+	        {
+	            "name" : "vegan",
+	            "size" : 29.8252054112488
+	        }, 
+	        {
+	            "name" : "direction",
+	            "size" : 21.6931890307965
+	        }, 
+	        {
+	            "name" : "vibe",
+	            "size" : 20.6981471718416
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_48",
+	    "children" : [ 
+	        {
+	            "name" : "steak",
+	            "size" : 117.254918282481
+	        }, 
+	        {
+	            "name" : "potato",
+	            "size" : 107.936880439844
+	        }, 
+	        {
+	            "name" : "side",
+	            "size" : 60.4093454482456
+	        }, 
+	        {
+	            "name" : "sausage",
+	            "size" : 48.1313589909521
+	        }, 
+	        {
+	            "name" : "butter",
+	            "size" : 46.1306337061811
+	        }, 
+	        {
+	            "name" : "salad",
+	            "size" : 40.5312705935008
+	        }, 
+	        {
+	            "name" : "lobster",
+	            "size" : 39.9631119008525
+	        }, 
+	        {
+	            "name" : "mom",
+	            "size" : 32.5890089834176
+	        }, 
+	        {
+	            "name" : "peanut",
+	            "size" : 21.1122814881375
+	        }, 
+	        {
+	            "name" : "bread",
+	            "size" : 20.6638339067718
+	        }
+	    ]
+	},
+	{
+	    "name" : "Topic_49",
+	    "children" : [ 
+	        {
+	            "name" : "line",
+	            "size" : 57.7647384309452
+	        }, 
+	        {
+	            "name" : "people",
+	            "size" : 44.6051266865508
+	        }, 
+	        {
+	            "name" : "guy",
+	            "size" : 40.4393890059185
+	        }, 
+	        {
+	            "name" : "time",
+	            "size" : 29.3741354878634
+	        }, 
+	        {
+	            "name" : "door",
+	            "size" : 24.9364200316175
+	        }, 
+	        {
+	            "name" : "girl",
+	            "size" : 24.684314432129
+	        }, 
+	        {
+	            "name" : "thing",
+	            "size" : 22.7745329700609
+	        }, 
+	        {
+	            "name" : "man",
+	            "size" : 18.3626682134033
+	        }, 
+	        {
+	            "name" : "place",
+	            "size" : 15.4813550270295
+	        }, 
+	        {
+	            "name" : "counter",
+	            "size" : 15.2837917545392
+	        }
+	    ]
+	}
+  ]
+}
